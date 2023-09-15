@@ -1,6 +1,12 @@
 body{
+
     background-color: #BED0FF;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+h1{
+    margin: 0px;
 }
 
 #mainHeading{
@@ -9,4 +15,59 @@ body{
 
 .highlight{
     color: #6f00d6;
+
+    
+}
+
+#introText {
+width: 575px;
+float: left;
+margin: 0px 0px 160px 160px ;
+}
+
+#pfp {
+
+    float: left;
+    margin: 0px 0px 31px 0px;
+}
+
+.reset {
+
+    clear: both;
+}
+
+#hobbyText {
+
+width: 415px;
+float: left;
+}
+
+#heroShot {
+
+    float: left;
+}
+
+.reset{
+
+    clear: both;
+}
+
+#meme {
+float: left;
+margin: 0px 0px 50px 0px;
+
+}
+
+#socials {
+width: 509px;
+float: left;
+margin: 21px 0px 73px 261px;
+
+}
+
+#pageContainer {
+
+    width: 1152px;
+    margin: 0px auto 0px auto;
+
 }
