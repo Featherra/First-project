@@ -32,6 +32,17 @@ margin: 0px 0px 160px 160px ;
     border-radius: 10px;
 }
 
+
+#navigation a{
+
+    text-decoration: none;
+    background-color: rgb(73, 47, 142);
+    color: white;
+
+    padding: 4px 4px 4px 4px;
+    margin: 0px 0px 0px 180px;
+}
+
 .reset {
 
     clear: both;
