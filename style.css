@@ -1,6 +1,6 @@
 body{
 
-    background-color: #BED0FF;
+    background-color: #5b4fc8;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 }
@@ -28,7 +28,8 @@ margin: 0px 0px 160px 160px ;
 #pfp {
 
     float: left;
-    margin: 0px 0px 31px 0px;
+    margin: 10px 0px 31px 10px;
+    border-radius: 10px;
 }
 
 .reset {
@@ -42,6 +43,8 @@ width: 415px;
 float: left;
 }
 
+/*baking pictures*/
+
 #heroShot {
 
     float: left;
@@ -54,7 +57,8 @@ float: left;
 
 #meme {
 float: left;
-margin: 0px 0px 50px 0px;
+margin: 0px 0px 40px 10px;
+border-radius: 10px;
 
 }
 
@@ -62,6 +66,7 @@ margin: 0px 0px 50px 0px;
 width: 509px;
 float: left;
 margin: 21px 0px 73px 261px;
+border-radius: 10px;
 
 }
 
@@ -69,5 +74,6 @@ margin: 21px 0px 73px 261px;
 
     width: 1152px;
     margin: 0px auto 0px auto;
+    background-color: #BED0FF;
 
 }
